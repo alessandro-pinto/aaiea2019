@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CFP
+title: Call for papers
 ---
 
 Artificial Intelligence (AI) is becoming ubiquitous and moving from the cloud
