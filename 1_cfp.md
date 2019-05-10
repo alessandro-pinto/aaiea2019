@@ -66,6 +66,6 @@ neuromorphic computing and so-called non Von Neumann machines are also considere
 
 ### Submissions
 
-Follow [this link]() to submit your contribution.
+Follow [this link](https://easychair.org/conferences/?conf=aaiea19) to submit your contribution.
 
 
