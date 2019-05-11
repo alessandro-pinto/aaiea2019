@@ -44,13 +44,13 @@ reasoning, planning algorithms, and embedded systems to discuss the development
 of novel hardware architectures that can accelerate the wide variety of AI
 algorithms demanded by advanced autonomous and intelligent systems.
 Topics of interest include hardware architectures and design methodologies to accelerate:  
-*  Applications based on deep learning, 
-*  skill-level and instinctive autonomy based on deep reinforcement learning, 
-*  storage and retrieval of facts in knowledge bases, 
-*  logical reasoning methods such as deduction, 
-*  search for classical planning algorithms and Hierarchical Task Networks (HTN), 
-*  inference in probabilistic models such as Bayesian networks and probabilistic logic, 
-*  planning algorithms for Markov Decision Processes (MDP) and Partial Observable Markov Decision Processes (POMDP).
+*  Applications based on deep learning 
+*  Skill-level and instinctive autonomy based on deep reinforcement learning
+*  Storage and retrieval of facts in knowledge bases
+*  Logical reasoning methods such as deduction
+*  Search for classical planning algorithms and Hierarchical Task Networks (HTN)
+*  Inference in probabilistic models such as Bayesian networks and probabilistic logic
+*  Planning algorithms for Markov Decision Processes (MDP) and Partial Observable Markov Decision Processes (POMDP)
 
 The workshop is not limited to any particular hardware implementation platform.
 ASICs, FPGAs, and analog circuits, as well as heterogeneous platforms that
