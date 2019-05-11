@@ -31,7 +31,7 @@ Typically, application-specific software implementations are efficient
 enough. Their applicability, however, is limited to specific environments and specific
 goals, which is not the typical case for _autonomous and intelligent systems_.
 Dealing with complex environments that are not known a priori, and being able to
-accept wide open goals requires these systems to reason and plan over generic
+accept wide-open goals requires these systems to reason and plan over generic
 domains, which are represented formally using logical languages.
 These requirements translate into algorithms that are computationally very
 challenging. Hence, there is a demanding need not only for new algorithms for
