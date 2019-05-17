@@ -66,6 +66,9 @@ neuromorphic computing and so-called non Von Neumann machines are also considere
 
 ### Submissions
 
-Follow [this link](https://easychair.org/conferences/?conf=aaiea19) to submit your contribution.
+Submitted manuscripts should be written in English conforming to the IEEE conference proceedings format (8.5” x 11” page size, two-column). All paper submissions must represent original and unpublished work. Papers must be submitted as PDF files through EasyChair at  [https://easychair.org/conferences/?conf=aaiea19](https://easychair.org/conferences/?conf=aaiea19)  
+
+Papers should not be longer than 8 pages in the IEEE conference format. 
+
 
 
