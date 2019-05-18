@@ -9,7 +9,10 @@ title: Technical Program Committee
 * Luca Carloni, Columbia University
 
 ### TPC members
+* Luca Carloni, Columbia University
 * Luis Ceze, University of Washington 
 * Aleksandra Faust, Google
+* Alessandro Pinto, United Technologies Research Center
 * Brandon Reagen, Facebook 
 * Vijay Reddi, Harvard 
+* Gerald Wang, United Technologies Research Center
