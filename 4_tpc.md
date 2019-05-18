@@ -11,6 +11,5 @@ title: Technical Program Committee
 ### TPC members
 * Luis Ceze, University of Washington 
 * Aleksandra Faust, Google
-* Song Han, MIT 
 * Brandon Reagen, Facebook 
 * Vijay Reddi, Harvard 
