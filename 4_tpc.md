@@ -14,5 +14,6 @@ title: Technical Program Committee
 * Aleksandra Faust, Google
 * Alessandro Pinto, United Technologies Research Center
 * Brandon Reagen, Facebook 
-* Vijay Reddi, Harvard 
+* Vijay Reddi, Harvard University
 * Gerald Wang, United Technologies Research Center
+* Zhiru Zhang, Cornell University
