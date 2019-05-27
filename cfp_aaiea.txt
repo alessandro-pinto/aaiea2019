@@ -1,0 +1,49 @@
+Accelerating AI for Embedded Autonomy (AAIEA)
+
+      October 17, 2019, New York, NY
+   Co-located with Embedded Systems Week
+
+
+Call for Papers
+
+The Workshop on Accelerating Artificial Intelligence for Embedded Autonomy aims at gathering researchers and practitioners in the fields of autonomy, automated reasoning, planning algorithms, and embedded systems to discuss the development of novel hardware architectures that can accelerate the wide variety of AI algorithms demanded by advanced autonomous and intelligent systems. Topics of interest include hardware architectures and design methodologies to accelerate:
+
+  Applications based on deep learning
+  Skill-level and instinctive autonomy based on deep reinforcement learning
+  Storage and retrieval of facts in knowledge bases
+  Logical reasoning methods such as deduction
+  Search for classical planning algorithms and Hierarchical Task Networks (HTN)
+  Inference in probabilistic models such as Bayesian networks and probabilistic logic
+  Planning algorithms for Markov Decision Processes (MDP) and Partial Observable Markov Decision Processes (POMDP)
+
+The workshop is not limited to any particular hardware implementation platform. ASICs, FPGAs, and analog circuits, as well as heterogeneous platforms that combine hardware accelerators with CPUs and GPUs are all within the scope of the proposal. Similarly, emerging architectures such as those based on neuromorphic computing and so-called non Von Neumann machines are considered in scope.
+For more information please refer to https://alessandro-pinto.github.io/aaiea2019/
+
+
+Important Dates
+  Submission deadline: July 1, 2019
+  Author notification: July 31, 2019
+  Camera ready: August 30, 2019
+
+Submissions
+  Submitted manuscripts should be written in English conforming to the IEEE conference proceedings format (8.5? x 11? page size, two-column) and not longer than 8 pages. All paper submissions must represent original and unpublished work. Papers must be submitted as PDF files through EasyChair (https://easychair.org/conferences/?conf=aaiea19).
+
+Venue
+  The AAIEA Workshop is part of the Embedded Systems Week, which will be hosted at the Kimmel Center for University Life, in New York City. For detailed information on this venue, please refer to the conference website (https://www.esweek.org/).
+
+
+Technical Program Committee
+  Luca Carloni, Columbia University
+  Luis Ceze, University of Washington
+  Aleksandra Faust, Google
+  Alessandro Pinto, United Technologies Research Center
+  Brandon Reagen, Facebook
+  Vijay Reddi, Harvard
+  Gerald Wang, United Technologies Research Center
+  Zhiru Zhang, Cornell
+
+Organizers
+  Alessandro Pinto, United Technologies Research Center
+  Gerald Wang, United Technologies Research Center
+  Luca Carloni, Columbia University
+
