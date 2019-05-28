@@ -17,3 +17,4 @@ title: Technical Program Committee
 * Vijay Reddi, Harvard University
 * Gerald Wang, United Technologies Research Center
 * Zhiru Zhang, Cornell University
+* Yuhao Zhu, University of Rochester
