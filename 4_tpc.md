@@ -12,9 +12,11 @@ title: Technical Program Committee
 * Luca Carloni, Columbia University
 * Luis Ceze, University of Washington 
 * Aleksandra Faust, Google
+* Temesghen Kahsai, Groq Inc.
 * Alessandro Pinto, United Technologies Research Center
 * Brandon Reagen, Facebook 
 * Vijay Reddi, Harvard University
 * Gerald Wang, United Technologies Research Center
 * Zhiru Zhang, Cornell University
 * Yuhao Zhu, University of Rochester
+
