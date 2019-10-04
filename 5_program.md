@@ -3,13 +3,14 @@ layout: page
 title: Workshop program 
 ---
 
- <dl>  
+  <dl>  
     <dt>9:00 - 9:15</dt>  
       <dd><i>Introduction to the workshop</i></dd>
       <dd>Workshop organizers</dd>  
     <dt>9:15 - 10:00</dt>  
-      <dd><i>Keynote</i>  (To be announced)</dd>
-      <dd>Speaker (To be announced)</dd>
+      <dd><i>Edge Intelligence: Bringing Autonomy to IoT Devices</i></dd>
+      <dd>Ali Keshavarzi</dd>
+      <dd>Adjunct Professor, Electrical Engineering, Stanford University</dd>
     <dt>10:00 - 10:30</dt>  
       <dd>Coffee break</dd>  
     <dt>10:30 - 11:00</dt>  
@@ -34,7 +35,7 @@ title: Workshop program
       <dd>Lincheng Yu</dd>
       <dd>Tsinghua University, Beijing, China</dd>
     <dt>14:30 - 15:00</dt>  
-      <dd><i>Neuromorphic Architectures</i></dd>
+      <dd><i>Neuromorphic Computing: A Step Towards Energy-Efficient Machine Learning</i></dd>
       <dd>Anup Das</dd>
       <dd>Drexel University</dd>
     <dt>15:00 - 15:30</dt>
